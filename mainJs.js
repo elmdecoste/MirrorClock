@@ -12,8 +12,7 @@ $(document).ready(function(){
 function getTime() {
     var date = new Date();
     var time = moment(date).format('hh mm').split(' ');
-    $('#hour').html(time[0]);
-    $('#min').html(time[1]);
+    $('#time').html(time[0] + " " + time[1]);
 }
 
 function getWeather(){
