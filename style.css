@@ -29,7 +29,7 @@ div{
 }
 
 #weather{
-    font-size: 75px;
+    font-size: 100px;
     position: fixed;
     bottom: 0px;
     width: 100%;
@@ -53,7 +53,7 @@ h3{
 i {
     color: #fff;
     font-family: weather;
-    font-size: 75px;
+    font-size: 100px;
     font-weight: normal;
     font-style: normal;
     text-align: center;
@@ -97,7 +97,7 @@ i {
 .icon-30:before { content: "A"; }
 .icon-31:before { content: "6"; }
 .icon-32:before { content: "1"; }
-.icon-33:before { content: "R"; }
+.icon-33:before { content: "6"; }
 .icon-34:before { content: "1"; }
 .icon-35:before { content: "W"; }
 .icon-36:before { content: "1"; }
